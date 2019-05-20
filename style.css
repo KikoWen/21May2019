@@ -4,3 +4,7 @@
     border: none;
     list-style-type: none;
 }
+
+.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
