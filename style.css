@@ -6,6 +6,12 @@
 }
 
 .container{
+    width: 50em;
+    margin: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: olivedrab;
+}
+
+.master{
+    background-color: lightgrey;
 }
